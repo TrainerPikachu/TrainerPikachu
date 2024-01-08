@@ -2,7 +2,7 @@
 
 I am a Second-year Computational Mathematics student at the University of Waterloo. 
 - 🔭 I’m currently working on: Game Development, 3D Modelling
-- 🌱 I’m currently learning: C++, Blender, UE5, Japanese (こんにちは~)
+- 🌱 I’m currently learning: C++, Blender, UE5, Computer Graphics, and Japanese (こんにちは~)
 
 <p align="center">
   <strong><a href="https://trainerpikachu.github.io">Official Website</a></strong> |
