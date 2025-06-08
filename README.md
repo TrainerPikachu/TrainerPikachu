@@ -1,10 +1,10 @@
 ### Hi there! 👋
 
-I am a Computational Mathematics student at the University of Waterloo, ON, Canada
+I am a Mathematics student at the University of Waterloo, ON, Canada
 - 🔭 I’m currently working on: Game Development, 3D Modelling
-- 🌱 Skills that I'm currently working on: C++, Blender, UE5, Computer Graphics, and Japanese (こんにちは~)
-- 📚 Books that I'm currently reading: Monogatari Series, The Temple of the Golden Pavilion(Yukio Mishima), Snow Country(Kawabata Yasunari), 键のない梦を见る(Mizuki Tsujimura)
-- 📫 How to reach me: Drift Bottle (N/A since I'm currently live at an inland city), Homing Pigeon (120.07794100000001, 35.89493399999997), and meet me on a random street~
+- 🌱 Skills that I'm currently working on: Front End Development, Blender, UE5, Computer Graphics, and Japanese (こんにちは~)
+- ⚡ Games that I enjoy the most: League of Legends, Valorant, Stardew Valley
+- 📫 How to reach me: Drift Bottle (N/A since I'm currently living in an inland city), Homing Pigeon (120.07794100000001, 35.89493399999997), and meet me on a random street~
 
 <p align="center">
   <strong><a href="https://blog.ronhong.tech">Blogging</a></strong> |
