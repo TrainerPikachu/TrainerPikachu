@@ -1,8 +1,7 @@
 ### Hi there! 👋
 
-I am a Mathematics student at the University of Waterloo, ON, Canada
-- 🔭 I’m currently working on: Game Development, 3D Modelling
-- 🌱 Skills that I'm currently working on: Front End Development, Blender, UE5, Computer Graphics, and Japanese (こんにちは~)
+I am a Mathematics student at the University of Waterloo, Canada
+- 🔭 I’m currently working on: Front-End Development, 3D Modelling
 - ⚡ Games that I enjoy the most: League of Legends, Valorant, Stardew Valley
 - 📫 How to reach me: Drift Bottle (N/A since I'm currently living in an inland city), Homing Pigeon (120.07794100000001, 35.89493399999997), and meet me on a random street~
 
